@@ -10,14 +10,20 @@
 练习/问题/思考：
 
 ## Day 2 Python Basics
-本日预习目标：
-预习内容/知识点：（每个标注【基础】、【拓展】）
+本日预习目标：熟悉python的基本使用
+预习内容/知识点：
 【基础】
-1.	基本运算
-2.	循环分支
-3.	函数定义
-预习材料：视频、音频、文档、网络开源材料的附件或链接
-练习/问题/思考：
+1. IO
+2.	基本运算
+3.	循环分支
+4.	函数定义
+【拓展】
+1. 异常
+2. 类与对象
+   
+预习材料：[Day2Practice](https://colab.research.google.com/drive/1ZSTFjy8BYYK1rehP6bhVMiFncrTwG65_?usp=sharing)
+
+练习/问题/思考：如何写一个python函数来读取一个包含list的txt文件，最后返回一个dictionary类别？如何处理这其中的异常？
 
 ## Day 3 数学基础 - 微积分 Calculus basics
 本日预习目标：熟悉基础的微积分运算法则
