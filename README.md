@@ -17,6 +17,7 @@
 2.	基本运算
 3.	循环分支
 4.	函数定义
+   
 【拓展】
 1. 异常
 2. 类与对象
@@ -46,11 +47,18 @@
 1.	矩阵表示 Matrix Representation
 2.	矩阵基础运算 Matrix addtion and multiplication
 3.	线性方程组&矩阵 Linear equations & Matrix
+   
 【拓展】
 4.	矩阵梯度 Gradient of Matrix
 5.	变换矩阵
-预习材料：视频、音频、文档、网络开源材料的附件或链接
+预习材料：[Day4Practice](https://colab.research.google.com/drive/1_knlkxImU-6FTsj96ZbdQ8PT8Dvyet8Z?usp=sharing)
+
+拓展材料：
+1.[3b1b的线性代数的本质课]（https://space.bilibili.com/88461692/channel/seriesdetail?sid=1528927）：主要观看P2 - P5。
+2.[Gilbert Strang的线性代数]（https://www.bilibili.com/video/BV18K4y1R7MP/?spm_id_from=333.337.search-card.all.click）：P1,2,3,5。
+
 练习/问题/思考：
+矩阵在生活里有哪些实际应用？矩阵的什么特性使它在数据分析，人脸识别，大语言模型里被广泛应用？
 
 ## Day 5 概率与统计 Probability and Statistics
 本日预习目标：掌握基础的统计学原理
@@ -66,14 +74,19 @@
 练习/问题/思考：
 
 ## Day 6 Python&Array
-本日预习目标：
+本日预习目标：巩固Day4的内容并且学会使用python实现矩阵和数列相关的运算
 预习内容/知识点：
 【基础】
 1.	数组&矩阵定义
 2.	矩阵运算
 3.	其他常规操作
-预习材料：视频、音频、文档、网络开源材料的附件或链接
-练习/问题/思考：
+   
+【扩展】
+1. MSE的矩阵梯度
+   
+预习材料：[Day6Practice](https://colab.research.google.com/drive/1qnKSPjBj9xhM_95bZEcb8mgYsU1Fv9du?usp=sharing)
+
+练习/问题/思考：了解五个numpy库其他可使用于np.array的函数，思考他们在计算中可能的用途。
 
 ## Day 7 Introduction to pandas, numpy
 本日预习目标：
@@ -105,17 +118,17 @@
 本日预习目标：
 预习内容/知识点：
 【基础】
-1.	什么是机器学习？为什么要机器学习？What&Why Machine Learning
-2.	机器学习的主要分类 - Main categories
-3.	损失函数 Evaluation - Loss function 
+1.	什么是机器学习？为什么要机器学习？What&Why Machine Learning:[吴恩达机器学习P2,P3](https://www.bilibili.com/video/BV1Bq421A74G?p=2)
+2.	机器学习的主要分类 - Main categories:[吴恩达机器学习P4~P7](https://www.bilibili.com/video/BV1Bq421A74G?p=4)
+3.	损失函数 Evaluation - Loss function:[王木头学科学-损失函数是如何设计出来的](https://www.bilibili.com/video/BV1Y64y1Q7hi/)
 【拓展】
 4.	sklearn入门
-5.	线性回归 Linear Regression
-6.	决策树 Decision Tree
-7.	支持向量机 Support Vector Machine
-预习材料：视频、音频、文档、网络开源材料的附件或链接
+5.	[线性回归 Linear Regression](https://www.bilibili.com/video/BV17w411E7ym/)：三分钟了解线性回归
+6.	决策树 Decision Tree:先看[这个](https://www.bilibili.com/video/BV1ar4y137GD/)再看[这个](https://kb.cnblogs.com/page/76196/)。
+预习材料：链接见以上
+拓展材料：[直观理解交叉熵作为损失函数]（https://www.bilibili.com/video/BV15V411W7VB/）
 练习/问题/思考：
-
+机器学习主要有哪些类别？为你想到的类别分别举一个实际生活中的可应用例子。如果你对大语言模型的任务略有了解的话，哪些大模型语言的经典任务可以用来类比这些机器学习里的类别？
 
 ## Day 10 Pytorch Tutorial
 本日预习目标：
