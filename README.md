@@ -52,12 +52,14 @@
 3.	线性方程组&矩阵 Linear equations & Matrix
    
 【拓展】
+
 4.	矩阵梯度 Gradient of Matrix
 5.	变换矩阵
 
 预习材料：[Day4Practice](https://colab.research.google.com/drive/1_knlkxImU-6FTsj96ZbdQ8PT8Dvyet8Z?usp=sharing)
 
 拓展材料：
+
 1.[3b1b的线性代数的本质课](https://space.bilibili.com/88461692/channel/seriesdetail?sid=1528927)：主要观看P2 - P5。
 
 2.[Gilbert Strang的线性代数](https://www.bilibili.com/video/BV18K4y1R7MP/)：P1,2,3,5。
@@ -126,16 +128,17 @@
 预习内容/知识点：
 
 【基础】
-1.	什么是机器学习？为什么要机器学习？What&Why Machine Learning:[吴恩达机器学习P2,P3](https://www.bilibili.com/video/BV1Bq421A74G?p=2)
-2.	机器学习的主要分类 - Main categories:[吴恩达机器学习P4~P7](https://www.bilibili.com/video/BV1Bq421A74G?p=4)
-3.	损失函数 Evaluation - Loss function:[王木头学科学-损失函数是如何设计出来的](https://www.bilibili.com/video/BV1Y64y1Q7hi/)
+1.	什么是机器学习？为什么要机器学习？What&Why Machine Learning: [吴恩达机器学习P2,P3](https://www.bilibili.com/video/BV1Bq421A74G?p=2)
+2.	机器学习的主要分类 - Main categories: [吴恩达机器学习P4~P7](https://www.bilibili.com/video/BV1Bq421A74G?p=4)
+3.	损失函数 Evaluation - Loss function: [王木头学科学-损失函数是如何设计出来的](https://www.bilibili.com/video/BV1Y64y1Q7hi/)
   
 【拓展】
+
 4.	[sklearn入门](https://colab.research.google.com/drive/1ck7Hqn3QrX1LBgcApW1a9_tHiqsYpg5n?usp=sharing)
 
 5.	[线性回归 Linear Regression](https://www.bilibili.com/video/BV17w411E7ym/)：三分钟了解线性回归
-6.	
-7.	决策树 Decision Tree:先看[这个](https://www.bilibili.com/video/BV1ar4y137GD/)再看[这个](https://kb.cnblogs.com/page/76196/)。
+6.	决策树 Decision Tree: 先看[这个](https://www.bilibili.com/video/BV1ar4y137GD/)再看[这个](https://kb.cnblogs.com/page/76196/)。
+
 
 预习材料：链接见以上
 
