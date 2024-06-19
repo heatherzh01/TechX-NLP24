@@ -158,7 +158,8 @@
 练习/问题/思考：
 个人练习：用pytorch构建并训练一个简单的神经网络
 [PyTorch_Tutorial1.ipynb]
-Day 11 Linguistics
+
+## Day 11 Linguistics
 本日预习目标：
 预习内容/知识点：
 【基础】
@@ -168,3 +169,5 @@ Day 11 Linguistics
 3.	Continuous Bag of Words
 预习材料：视频、音频、文档、网络开源材料的附件或链接
 练习/问题/思考：
+
+
